@@ -22,4 +22,4 @@ do
   fi
 done < tmp.txt
 echo "$s" | sort -r -n -k2 | head -3 | awk '{print $1,":",$3,":",$2}'
-
+rm tmp.txt
