@@ -5,7 +5,7 @@ cur_day=$(date +%Y-%m-%d)
 last_backup=$(ls ~ | grep -E "Backup\-[0-9]{4}\-[0-9]{2}\-[0-9]{2}$" | sort | tail -n 1)
 if [[ $last_backup < Backup-$min_day ]]; then
 	cur_backup=Backup-$cur_day
-	mkdir ~$cur_backup 2> /dev/null
+	mkdir ~/$cur_backup 2> /dev/null
 else
 	cur_backup=$last_backup
 fi 
