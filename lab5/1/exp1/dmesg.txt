@@ -1,0 +1,6 @@
+[  198.252330] mem.sh invoked oom-killer: gfp_mask=0x100cca(GFP_HIGHUSER_MOVABLE), order=0, oom_score_adj=0
+[  198.252334] CPU: 0 PID: 1592 Comm: mem.sh Tainted: G           O      5.4.0-53-generic #59~18.04.1-Ubuntu
+[  198.252527] [   1592]  1000  1592   868607   863470  6995968      167             0 mem.sh
+[  198.252535] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=mem.sh,pid=1592,uid=1000
+[  198.252542] Out of memory: Killed process 1592 (mem.sh) total-vm:3474428kB, anon-rss:3453880kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:6832kB oom_score_adj:0
+[  198.520487] oom_reaper: reaped process 1592 (mem.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
