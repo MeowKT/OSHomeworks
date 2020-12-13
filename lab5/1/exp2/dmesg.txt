@@ -1,0 +1,20 @@
+[  192.927920] [   1576]  1000  1576   418124   413175  3391488        0             0 mem1.sh
+[  192.927921] [   1577]  1000  1577   463895   458946  3756032        0             0 mem2.sh
+[  192.927927] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=mem2.sh,pid=1577,uid=1000
+[  192.927934] Out of memory: Killed process 1577 (mem2.sh) total-vm:1855580kB, anon-rss:1835784kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:3668kB oom_score_adj:0
+[  193.140768] oom_reaper: reaped process 1577 (mem2.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[  234.594055] [   1576]  1000  1576   880454   874857  7098368      680             0 mem1.sh
+[  234.594062] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=mem1.sh,pid=1576,uid=1000
+[  234.594068] Out of memory: Killed process 1576 (mem1.sh) total-vm:3521816kB, anon-rss:3499428kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:6932kB oom_score_adj:0
+[  234.859251] oom_reaper: reaped process 1576 (mem1.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[ 1253.771036] [   2028]  1000  2028   460397   455440  3727360        7             0 mem2.sh
+[ 1253.771037] [   2029]  1000  2029   414527   409550  3362816        5             0 mem1.sh
+[ 1253.771038] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=mem2.sh,pid=2028,uid=1000
+[ 1253.771046] Out of memory: Killed process 2028 (mem2.sh) total-vm:1841588kB, anon-rss:1821760kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:3640kB oom_score_adj:0
+[ 1253.892741] oom_reaper: reaped process 2028 (mem2.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[ 1287.741491] mem1.sh invoked oom-killer: gfp_mask=0x100cca(GFP_HIGHUSER_MOVABLE), order=0, oom_score_adj=0
+[ 1287.741494] CPU: 0 PID: 2029 Comm: mem1.sh Tainted: G           O      5.4.0-53-generic #59~18.04.1-Ubuntu
+[ 1287.741696] [   2029]  1000  2029   870290   864130  7016448     1190             0 mem1.sh
+[ 1287.741696] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=mem1.sh,pid=2029,uid=1000
+[ 1287.741703] Out of memory: Killed process 2029 (mem1.sh) total-vm:3481160kB, anon-rss:3456520kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:6852kB oom_score_adj:0
+[ 1287.901289] oom_reaper: reaped process 2029 (mem1.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
