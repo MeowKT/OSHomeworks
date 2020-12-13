@@ -1,0 +1,680 @@
+KiB Mem :  3932600 total,  2433628 free,   868704 used,   630268 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  2819112 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 3005116 291272 111912 S  0,0  7,4   0:23.69 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.59 Xorg
+ 1271 savva     20   0  894456  67328  27268 S  0,0  1,7   0:00.22 evolution-c+
+ 1282 savva     20   0  946252  63104  23868 S  0,0  1,6   0:00.20 evolution-c+
+
+KiB Mem :  3932600 total,  2325488 free,   976756 used,   630356 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  2711080 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 3005116 291336 111912 S  0,0  7,4   0:23.80 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+ 1577 savva     20   0  116612  99984   3108 R 47,1  2,5   0:01.69 mem2.sh
+ 1576 savva     20   0  104732  88072   3168 R 47,1  2,2   0:01.69 mem1.sh
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.63 Xorg
+
+KiB Mem :  3932600 total,  2197204 free,  1105032 used,   630364 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  2582804 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 3003068 291304 111912 S  0,0  7,4   0:23.84 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+ 1577 savva     20   0  183800 167040   3108 R 47,1  4,2   0:02.73 mem2.sh
+ 1576 savva     20   0  164924 148264   3168 R 47,1  3,8   0:02.73 mem1.sh
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.64 Xorg
+
+KiB Mem :  3932600 total,  2068180 free,  1234044 used,   630376 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  2453784 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 3003068 291304 111912 S  0,0  7,4   0:23.85 gnome-shell
+ 1577 savva     20   0  251384 234624   3108 R 47,1  6,0   0:03.79 mem2.sh
+ 1576 savva     20   0  226040 209248   3168 R 47,1  5,3   0:03.79 mem1.sh
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.65 Xorg
+
+KiB Mem :  3932600 total,  1931344 free,  1370880 used,   630376 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  2316948 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0  322664 305904   3108 R 50,0  7,8   0:04.86 mem2.sh
+ 1011 savva     20   0 3003068 291304 111912 S  0,0  7,4   0:23.85 gnome-shell
+ 1576 savva     20   0  291116 274456   3168 R 50,0  7,0   0:04.86 mem1.sh
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.65 Xorg
+
+KiB Mem :  3932600 total,  1813156 free,  1489060 used,   630384 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  2198768 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0  384968 368208   3108 R 43,8  9,4   0:05.89 mem2.sh
+ 1576 savva     20   0  346952 330424   3168 R 50,0  8,4   0:05.90 mem1.sh
+ 1011 savva     20   0 3003068 291304 111912 S  0,0  7,4   0:23.87 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.68 Xorg
+
+KiB Mem :  3932600 total,  1684888 free,  1617328 used,   630384 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  2070500 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0  452420 435528   3108 R 41,2 11,1   0:06.95 mem2.sh
+ 1576 savva     20   0  407408 390616   3168 R 52,9  9,9   0:06.96 mem1.sh
+ 1011 savva     20   0 3003068 291304 111912 S  0,0  7,4   0:23.89 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.70 Xorg
+
+KiB Mem :  3932600 total,  1554800 free,  1746992 used,   630808 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  1940848 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0  516968 500208   3108 R 23,5 12,7   0:07.97 mem2.sh
+ 1576 savva     20   0  466016 449224   3168 R 23,5 11,4   0:07.97 mem1.sh
+ 1011 savva     20   0 3002044 290328 111912 S  0,0  7,4   0:23.91 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.71 Xorg
+
+KiB Mem :  3932600 total,  1419980 free,  1881760 used,   630860 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  1806048 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0  587588 570696   3108 R 47,1 14,5   0:09.06 mem2.sh
+ 1576 savva     20   0  530168 513376   3168 R 47,1 13,1   0:09.05 mem1.sh
+ 1011 savva     20   0 3002044 290328 111912 S  0,0  7,4   0:23.91 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.71 Xorg
+
+KiB Mem :  3932600 total,  1286924 free,  2014808 used,   630868 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  1673000 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0  657020 640392   3108 R 47,1 16,3   0:10.13 mem2.sh
+ 1576 savva     20   0  593264 576472   3168 R 41,2 14,7   0:10.12 mem1.sh
+ 1011 savva     20   0 3002044 290328 111912 S  0,0  7,4   0:23.92 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.72 Xorg
+
+KiB Mem :  3932600 total,  1154120 free,  2147612 used,   630868 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  1540196 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0  726848 710088   3108 R 47,1 18,1   0:11.20 mem2.sh
+ 1576 savva     20   0  656096 639304   3168 R 47,1 16,3   0:11.19 mem1.sh
+ 1011 savva     20   0 3002044 290328 111912 S  0,0  7,4   0:23.92 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.72 Xorg
+
+KiB Mem :  3932600 total,  1018040 free,  2283692 used,   630868 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  1404116 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0  797600 780840   3108 R 56,2 19,9   0:12.28 mem2.sh
+ 1576 savva     20   0  720908 704248   3168 R 50,0 17,9   0:12.27 mem1.sh
+ 1011 savva     20   0 3002044 290328 111912 S  0,0  7,4   0:23.93 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.72 Xorg
+
+KiB Mem :  3932600 total,   884480 free,  2417244 used,   630876 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  1270564 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0  868088 851328   3108 R 50,0 21,6   0:13.35 mem2.sh
+ 1576 savva     20   0  784136 767344   3168 R 50,0 19,5   0:13.34 mem1.sh
+ 1011 savva     20   0 3001020 290252 111912 S  0,0  7,4   0:23.94 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.72 Xorg
+
+KiB Mem :  3932600 total,   749408 free,  2552316 used,   630876 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  1135492 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0  938444 921552   3108 R 43,8 23,4   0:14.41 mem2.sh
+ 1576 savva     20   0  848420 831760   3168 R 43,8 21,2   0:14.41 mem1.sh
+ 1011 savva     20   0 3001020 290252 111912 S  0,0  7,4   0:23.95 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.72 Xorg
+
+KiB Mem :  3932600 total,   631236 free,  2670228 used,   631136 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.  1017588 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1007612 990720   3108 R 47,1 25,2   0:15.49 mem2.sh
+ 1576 savva     20   0  910460 893800   3168 R 41,2 22,7   0:15.48 mem1.sh
+ 1011 savva     20   0 3001020 290252 111912 S  0,0  7,4   0:23.95 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.72 Xorg
+
+KiB Mem :  3932600 total,   493392 free,  2808072 used,   631136 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.   879744 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1079816 1,014g   3108 R 43,8 27,0   0:16.56 mem2.sh
+ 1576 savva     20   0  975800 959272   3168 R 50,0 24,4   0:16.56 mem1.sh
+ 1011 savva     20   0 3001020 290252 111912 S  0,0  7,4   0:23.95 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.72 Xorg
+
+KiB Mem :  3932600 total,   360084 free,  2941372 used,   631144 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.   746444 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1149908 1,081g   3108 R 50,0 28,8   0:17.64 mem2.sh
+ 1576 savva     20   0 1038896 998,1m   3168 R 50,0 26,0   0:17.63 mem1.sh
+ 1011 savva     20   0 3001020 290252 111912 S  0,0  7,4   0:23.96 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.73 Xorg
+
+KiB Mem :  3932600 total,   230808 free,  3070648 used,   631144 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.   617168 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1218020 1,145g   3108 R 43,8 30,5   0:18.71 mem2.sh
+ 1576 savva     20   0 1099880 1,033g   3168 R 50,0 27,5   0:18.71 mem1.sh
+ 1011 savva     20   0 3001020 290252 111912 S  0,0  7,4   0:23.96 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.73 Xorg
+
+KiB Mem :  3932600 total,   101720 free,  3206496 used,   624384 buff/cache
+KiB Swap:   483800 total,   483800 free,        0 used.   483700 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1289300 1,214g   3108 R 43,8 32,4   0:19.78 mem2.sh
+ 1576 savva     20   0 1163636 1,094g   3168 R 43,8 29,2   0:19.78 mem1.sh
+ 1011 savva     20   0 2999996 290292 111912 S  0,0  7,4   0:23.97 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.73 Xorg
+
+KiB Mem :  3932600 total,   109808 free,  3328624 used,   494168 buff/cache
+KiB Swap:   483800 total,   483276 free,      524 used.   363216 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1352792 1,274g   3108 R 43,8 34,0   0:20.79 mem2.sh
+ 1576 savva     20   0 1221980 1,149g   3168 R 43,8 30,6   0:20.80 mem1.sh
+ 1011 savva     20   0 2999996 290292 111912 S  6,2  7,4   0:24.00 gnome-shell
+ 1342 savva     20   0 1086524 168836  36988 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  6,2  2,2   0:01.75 Xorg
+
+KiB Mem :  3932600 total,   102428 free,  3426284 used,   403888 buff/cache
+KiB Swap:   483800 total,   481996 free,     1804 used.   266192 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1405196 1,324g   3048 R 33,3 35,3   0:21.71 mem2.sh
+ 1576 savva     20   0 1268444 1,194g   3084 R 33,3 31,8   0:21.70 mem1.sh
+ 1011 savva     20   0 2999996 290296 111852 S 16,7  7,4   0:24.26 gnome-shell
+ 1342 savva     20   0 1086524 168808  36960 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  86004  51148 S  0,0  2,2   0:01.78 Xorg
+
+KiB Mem :  3932600 total,   129620 free,  3525928 used,   277052 buff/cache
+KiB Swap:   483800 total,   480460 free,     3340 used.   167404 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1458656 1,375g   3048 R 47,1 36,7   0:22.64 mem2.sh
+ 1576 savva     20   0 1315436 1,239g   3084 R 35,3 33,0   0:22.63 mem1.sh
+ 1011 savva     20   0 2999996 288456 109944 R  5,9  7,3   0:24.47 gnome-shell
+ 1342 savva     20   0 1086524 168784  36936 S  0,0  4,3   0:03.03 gnome-softw+
+  630 savva     20   0  446072  85952  51096 S  0,0  2,2   0:01.81 Xorg
+
+KiB Mem :  3932600 total,   101416 free,  3621484 used,   209700 buff/cache
+KiB Swap:   483800 total,   476108 free,     7692 used.    76772 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1511720 1,426g   2904 R 37,5 38,0   0:23.56 mem2.sh
+ 1576 savva     20   0 1362296 1,283g   2944 R 43,8 34,2   0:23.56 mem1.sh
+ 1011 savva     20   0 2999996 279528 101016 R  6,2  7,1   0:24.70 gnome-shell
+ 1342 savva     20   0 1086524 160880  29032 S  0,0  4,1   0:03.03 gnome-softw+
+  630 savva     20   0  446072  81820  46964 S  0,0  2,1   0:01.83 Xorg
+
+KiB Mem :  3932600 total,   111400 free,  3737704 used,    83496 buff/cache
+KiB Swap:   483800 total,   469964 free,    13836 used.    23696 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1576532 1,487g   2308 R 41,2 39,6   0:24.58 mem2.sh
+ 1576 savva     20   0 1420112 1,338g   2396 R 41,2 35,7   0:24.57 mem1.sh
+ 1011 savva     20   0 2999996 210592  32080 S  0,0  5,4   0:24.75 gnome-shell
+ 1342 savva     20   0 1086524 140836   8988 S  0,0  3,6   0:03.03 gnome-softw+
+  630 savva     20   0  446072  59440  24584 S  0,0  1,5   0:01.84 Xorg
+
+KiB Mem :  3932600 total,   127464 free,  3742360 used,    62776 buff/cache
+KiB Swap:   483800 total,   347852 free,   135948 used.    29704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1641344 1,548g   1788 R 33,3 41,3   0:25.59 mem2.sh
+ 1576 savva     20   0 1479380 1,394g   1752 R 33,3 37,2   0:25.59 mem1.sh
+ 1011 savva     20   0 2999996 168156  22528 S  0,0  4,3   0:24.76 gnome-shell
+ 1342 savva     20   0 1086524 137180   5332 S  0,0  3,5   0:03.03 gnome-softw+
+  630 savva     20   0  446072  46820  23076 S  0,0  1,2   0:01.84 Xorg
+
+KiB Mem :  3932600 total,   119400 free,  3732956 used,    80244 buff/cache
+KiB Swap:   483800 total,   216524 free,   267276 used.    30356 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1704836 1,608g   1712 R 35,3 42,9   0:26.60 mem2.sh
+ 1576 savva     20   0 1537328 1,449g   1708 R 35,3 38,6   0:26.59 mem1.sh
+ 1342 savva     20   0 1086524 135576   3728 S  0,0  3,4   0:03.03 gnome-softw+
+ 1011 savva     20   0 2999996 129496  31236 S  0,0  3,3   0:24.79 gnome-shell
+  630 savva     20   0  446072  46544  22784 S  5,9  1,2   0:01.86 Xorg
+
+KiB Mem :  3932600 total,   116576 free,  3737324 used,    78700 buff/cache
+KiB Swap:   483800 total,   113788 free,   370012 used.    26788 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1760936 1,662g   1712 R 47,1 44,3   0:27.56 mem2.sh
+ 1576 savva     20   0 1587224 1,496g   1708 R 47,1 39,9   0:27.56 mem1.sh
+ 1342 savva     20   0 1086524 135572   3724 S  0,0  3,4   0:03.03 gnome-softw+
+ 1011 savva     20   0 2999996 120160  33960 S  0,0  3,1   0:24.85 gnome-shell
+  630 savva     20   0  446072  47648  23732 S  0,0  1,2   0:01.90 Xorg
+
+KiB Mem :  3932600 total,   112344 free,  3746780 used,    73476 buff/cache
+KiB Swap:   483800 total,        0 free,   483800 used.    19956 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1577 savva     20   0 1825880 1,724g   1712 R 43,8 46,0   0:28.55 mem2.sh
+ 1576 savva     20   0 1645172 1,552g   1708 R 37,5 41,4   0:28.55 mem1.sh
+ 1342 savva     20   0 1086524 114928   3696 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2999996  57108  31516 S  0,0  1,5   0:24.87 gnome-shell
+  630 savva     20   0  446072  35924  23496 S  0,0  0,9   0:01.92 Xorg
+
+KiB Mem :  3932600 total,  1877004 free,  1970896 used,    84700 buff/cache
+KiB Swap:   483800 total,     1144 free,   482656 used.  1790224 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 1676588 1,582g   1736 R 47,6 42,2   0:29.17 mem1.sh
+ 1342 savva     20   0 1086524 111916   1300 S  0,0  2,8   0:03.03 gnome-softw+
+ 1011 savva     20   0 2999996  50076  23828 S  9,5  1,3   0:24.90 gnome-shell
+  630 savva     20   0  446072  33696  20968 S  4,8  0,9   0:01.94 Xorg
+ 1340 savva     20   0  804260  12672   7432 S  0,0  0,3   0:01.05 gnome-termi+
+
+KiB Mem :  3932600 total,  1757736 free,  2073640 used,   101224 buff/cache
+KiB Swap:   483800 total,     6444 free,   477356 used.  1679180 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 1773872 1,674g   1736 R 76,5 44,6   0:31.12 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2999996  69488  39804 D  5,9  1,8   0:25.00 gnome-shell
+  630 savva     20   0  446072  36108  23108 S  0,0  0,9   0:01.99 Xorg
+ 1340 savva     20   0  804260  15412   9584 S  0,0  0,4   0:01.09 gnome-termi+
+
+KiB Mem :  3932600 total,  1657832 free,  2169900 used,   104868 buff/cache
+KiB Swap:   483800 total,    17264 free,   466536 used.  1581132 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 1857164 1,754g   1736 R 94,1 46,8   0:32.92 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2999996  82344  43312 S  0,0  2,1   0:25.27 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.03 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.11 gnome-termi+
+
+KiB Mem :  3932600 total,  1542800 free,  2284832 used,   104968 buff/cache
+KiB Swap:   483800 total,    31604 free,   452196 used.  1466160 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 1956692 1,849g   1736 R 88,2 49,3   0:34.86 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2998972  97060  43692 S  0,0  2,5   0:25.44 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.06 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.11 gnome-termi+
+
+KiB Mem :  3932600 total,  1444492 free,  2383084 used,   105024 buff/cache
+KiB Swap:   483800 total,    31916 free,   451884 used.  1367880 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 2054240 1,942g   1736 R 93,8 51,8   0:36.72 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2998972  97412  43692 S  0,0  2,5   0:25.68 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.09 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.12 gnome-termi+
+
+KiB Mem :  3932600 total,  1340004 free,  2487556 used,   105040 buff/cache
+KiB Swap:   483800 total,    31924 free,   451876 used.  1263400 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 2158520 2,041g   1736 R 88,2 54,4   0:38.74 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2998972  97412  43692 S  0,0  2,5   0:25.73 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.14 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.15 gnome-termi+
+
+KiB Mem :  3932600 total,  1212736 free,  2613908 used,   105956 buff/cache
+KiB Swap:   483800 total,    32616 free,   451184 used.  1136588 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 2283920 2,161g   1736 R 88,2 57,6   0:40.86 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2998972  97412  43692 S  0,0  2,5   0:25.74 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.14 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.15 gnome-termi+
+
+KiB Mem :  3932600 total,  1082444 free,  2744016 used,   106140 buff/cache
+KiB Swap:   483800 total,    32812 free,   450988 used.  1006388 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 2413544 2,284g   1736 R 88,2 60,9   0:43.01 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2998972  97412  43692 S  0,0  2,5   0:25.75 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.15 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.16 gnome-termi+
+
+KiB Mem :  3932600 total,   968592 free,  2857864 used,   106144 buff/cache
+KiB Swap:   483800 total,    33128 free,   450672 used.   892536 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 2526800 2,392g   1736 R 94,1 63,8   0:45.08 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2997948  97724  43692 S  0,0  2,5   0:25.80 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.17 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.17 gnome-termi+
+
+KiB Mem :  3932600 total,   837796 free,  2988656 used,   106148 buff/cache
+KiB Swap:   483800 total,    33128 free,   450672 used.   761744 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 2657348 2,517g   1736 R 88,2 67,1   0:47.22 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2997948  97724  43692 S  0,0  2,5   0:25.80 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.17 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.18 gnome-termi+
+
+KiB Mem :  3932600 total,   706748 free,  3118596 used,   107256 buff/cache
+KiB Swap:   483800 total,    33652 free,   450148 used.   631240 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 2786708 2,640g   1736 R 94,1 70,4   0:49.37 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.03 gnome-softw+
+ 1011 savva     20   0 2997948  99900  45564 S  0,0  2,5   0:25.82 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.17 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.18 gnome-termi+
+
+KiB Mem :  3932600 total,   575912 free,  3249368 used,   107320 buff/cache
+KiB Swap:   483800 total,    33748 free,   450052 used.   500444 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 2916728 2,764g   1736 R 77,8 73,7   0:51.51 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.04 gnome-softw+
+ 1011 savva     20   0 2997948  99900  45564 S  0,0  2,5   0:25.82 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.17 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.18 gnome-termi+
+
+KiB Mem :  3932600 total,   444168 free,  3381112 used,   107320 buff/cache
+KiB Swap:   483800 total,    33748 free,   450052 used.   368700 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 3048332 2,890g   1736 R 88,2 77,1   0:53.67 mem1.sh
+ 1342 savva     20   0 1086524 113912   2952 S  0,0  2,9   0:03.04 gnome-softw+
+ 1011 savva     20   0 2997948  99900  45564 S  0,0  2,5   0:25.82 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.17 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.18 gnome-termi+
+
+KiB Mem :  3932600 total,   317788 free,  3484024 used,   130788 buff/cache
+KiB Swap:   483800 total,    47348 free,   436452 used.   254052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 3149840 2,987g   1736 R 72,2 79,6   0:55.61 mem1.sh
+ 1342 savva     20   0 1086524 115092   4000 S  0,0  2,9   0:03.04 gnome-softw+
+ 1011 savva     20   0 2997948 100184  45728 S  5,6  2,5   0:25.89 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.22 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.20 gnome-termi+
+
+KiB Mem :  3932600 total,   232216 free,  3569464 used,   130920 buff/cache
+KiB Swap:   483800 total,    47476 free,   436324 used.   168560 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 3234848 3,068g   1736 R 77,8 81,8   0:57.47 mem1.sh
+ 1342 savva     20   0 1086524 115092   4000 S  0,0  2,9   0:03.05 gnome-softw+
+ 1011 savva     20   0 2997948 100428  45840 S  5,6  2,6   0:26.06 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  5,6  0,9   0:02.31 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  5,6  0,5   0:01.25 gnome-termi+
+
+KiB Mem :  3932600 total,   122872 free,  3678784 used,   130944 buff/cache
+KiB Swap:   483800 total,    47504 free,   436296 used.    59216 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 3343880 3,172g   1736 R 93,8 84,6   0:59.50 mem1.sh
+ 1342 savva     20   0 1086524 115092   4000 S  0,0  2,9   0:03.05 gnome-softw+
+ 1011 savva     20   0 2996924 100328  45840 S  6,2  2,6   0:26.13 gnome-shell
+  630 savva     20   0  446072  36384  23228 S  0,0  0,9   0:02.35 Xorg
+ 1340 savva     20   0  804260  18080  11156 S  0,0  0,5   0:01.28 gnome-termi+
+
+KiB Mem :  3932600 total,   123844 free,  3736088 used,    72668 buff/cache
+KiB Swap:   483800 total,     3900 free,   479900 used.    31068 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 3436280 3,260g   1524 R 68,8 86,9   1:01.36 mem1.sh
+ 1011 savva     20   0 2996924  87156  32620 S  0,0  2,2   0:26.23 gnome-shell
+ 1342 savva     20   0 1086524  73432   2200 S  0,0  1,9   0:03.05 gnome-softw+
+  630 savva     20   0  446072  34272  21116 S  0,0  0,9   0:02.38 Xorg
+ 1340 savva     20   0  804260  12260   5036 S  0,0  0,3   0:01.30 gnome-termi+
+
+KiB Mem :  3932600 total,    87484 free,  3798812 used,    46304 buff/cache
+KiB Swap:   483800 total,        0 free,   483800 used.    14806 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1576 savva     20   0 3506240 3,325g      0 D  0,0 88,7   1:02.63 mem1.sh
+ 1011 savva     20   0 2996924  70912  16348 D 13,6  1,8   0:26.35 gnome-shell
+ 1342 savva     20   0 1086524  68592   1300 S  0,0  1,7   0:03.05 gnome-softw+
+  630 savva     20   0  446072  33148  19816 S  0,0  0,8   0:02.43 Xorg
+  491 root      20   0  703640   7668      0 S  0,0  0,2   0:01.00 snapd
+
+KiB Mem :  3932600 total,  3528628 free,   298244 used,   105728 buff/cache
+KiB Swap:   483800 total,     2848 free,   480952 used.  3452356 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2996924  77372  23012 R 13,6  2,0   0:26.62 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  4,5  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  17240   4556 R  9,1  0,4   0:02.63 Xorg
+ 1340 savva     20   0  804260  14068   6788 S  4,5  0,4   0:01.48 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3522076 free,   298468 used,   112056 buff/cache
+KiB Swap:   483800 total,     3760 free,   480040 used.  3448924 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96624  41920 S  0,0  2,5   0:26.73 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27104  14328 S  0,0  0,7   0:02.65 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.49 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3522076 free,   298448 used,   112076 buff/cache
+KiB Swap:   483800 total,     3800 free,   480000 used.  3448992 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96624  41920 S  0,0  2,5   0:26.74 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27104  14328 S  0,0  0,7   0:02.68 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.51 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3522076 free,   298456 used,   112068 buff/cache
+KiB Swap:   483800 total,     3804 free,   479996 used.  3448992 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96624  41920 R  6,2  2,5   0:26.77 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27104  14328 R  6,2  0,7   0:02.71 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.53 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3522016 free,   298508 used,   112076 buff/cache
+KiB Swap:   483800 total,     3816 free,   479984 used.  3448936 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96624  41920 S  0,0  2,5   0:26.79 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27272  14328 S  0,0  0,7   0:02.74 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.56 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3521956 free,   298496 used,   112148 buff/cache
+KiB Swap:   483800 total,     4108 free,   479692 used.  3448912 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96624  41920 S  6,2  2,5   0:26.82 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27424  14328 S  0,0  0,7   0:02.76 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.58 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3521896 free,   298556 used,   112148 buff/cache
+KiB Swap:   483800 total,     4132 free,   479668 used.  3448852 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96664  41952 S  0,0  2,5   0:26.83 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27424  14328 S  0,0  0,7   0:02.78 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.58 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3521896 free,   298548 used,   112156 buff/cache
+KiB Swap:   483800 total,     4140 free,   479660 used.  3448856 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96560  41952 S  0,0  2,5   0:26.83 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27424  14328 S  0,0  0,7   0:02.78 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.58 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3521836 free,   298604 used,   112160 buff/cache
+KiB Swap:   483800 total,     4144 free,   479656 used.  3448796 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96560  41952 S  5,9  2,5   0:26.86 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27424  14328 S  0,0  0,7   0:02.79 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.60 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3521476 free,   298728 used,   112396 buff/cache
+KiB Swap:   483800 total,     4220 free,   479580 used.  3448536 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96560  41952 S  0,0  2,5   0:26.91 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:02.83 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.62 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3521536 free,   298660 used,   112404 buff/cache
+KiB Swap:   483800 total,     4220 free,   479580 used.  3448616 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96560  41952 S  0,0  2,5   0:26.91 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:02.83 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.62 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3521356 free,   298656 used,   112588 buff/cache
+KiB Swap:   483800 total,     4224 free,   479576 used.  3448532 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96560  41952 S  6,2  2,5   0:26.96 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:02.87 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.65 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3521356 free,   298656 used,   112588 buff/cache
+KiB Swap:   483800 total,     4240 free,   479560 used.  3448532 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  96560  41952 S  0,0  2,5   0:27.02 gnome-shell
+ 1342 savva     20   0 1086524  68144    840 S  0,0  1,7   0:03.06 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:02.92 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.67 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3515896 free,   302032 used,   114672 buff/cache
+KiB Swap:   483800 total,     7412 free,   476388 used.  3444112 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  98964  44080 S  5,6  2,5   0:27.11 gnome-shell
+ 1342 savva     20   0 1086524  71696   3844 S  0,0  1,8   0:03.07 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:02.96 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.70 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3515236 free,   302052 used,   115312 buff/cache
+KiB Swap:   483800 total,     7440 free,   476360 used.  3443772 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  98964  44080 S  0,0  2,5   0:27.13 gnome-shell
+ 1342 savva     20   0 1086524  71696   3844 S  0,0  1,8   0:03.07 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:02.98 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.72 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3514876 free,   302116 used,   115608 buff/cache
+KiB Swap:   483800 total,     7440 free,   476360 used.  3443560 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  98964  44080 S  0,0  2,5   0:27.13 gnome-shell
+ 1342 savva     20   0 1086524  71696   3844 S  0,0  1,8   0:03.07 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:02.99 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.73 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3514636 free,   302072 used,   115892 buff/cache
+KiB Swap:   483800 total,     7452 free,   476348 used.  3443456 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2995900  98964  44080 S  0,0  2,5   0:27.14 gnome-shell
+ 1342 savva     20   0 1086524  71696   3844 S  0,0  1,8   0:03.07 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:02.99 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.73 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3514588 free,   301908 used,   116104 buff/cache
+KiB Swap:   483800 total,     8608 free,   475192 used.  3443520 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2993852  98872  44144 S  0,0  2,5   0:27.16 gnome-shell
+ 1342 savva     20   0 1086524  71696   3844 S  0,0  1,8   0:03.07 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:02.99 Xorg
+ 1340 savva     20   0  804260  17800  10348 S  0,0  0,5   0:01.73 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3513988 free,   302096 used,   116516 buff/cache
+KiB Swap:   483800 total,     8688 free,   475112 used.  3443120 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2993852  98992  44152 S  6,7  2,5   0:27.28 gnome-shell
+ 1342 savva     20   0 1086524  71696   3844 S  0,0  1,8   0:03.07 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  6,7  0,7   0:03.02 Xorg
+ 1340 savva     20   0  804260  19496  12016 S  6,7  0,5   0:01.76 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3513868 free,   302144 used,   116588 buff/cache
+KiB Swap:   483800 total,     8720 free,   475080 used.  3443040 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2993852  99320  44396 S  0,0  2,5   0:27.49 gnome-shell
+ 1342 savva     20   0 1086524  71696   3844 S  0,0  1,8   0:03.07 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:03.09 Xorg
+ 1340 savva     20   0  804260  19496  12016 S  0,0  0,5   0:01.80 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3513568 free,   302240 used,   116792 buff/cache
+KiB Swap:   483800 total,     8784 free,   475016 used.  3442844 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2993852  99320  44396 S  0,0  2,5   0:27.59 gnome-shell
+ 1342 savva     20   0 1086524  71696   3844 S  0,0  1,8   0:03.07 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:03.13 Xorg
+ 1340 savva     20   0  804260  19496  12016 S  0,0  0,5   0:01.83 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
+KiB Mem :  3932600 total,  3513268 free,   302536 used,   116796 buff/cache
+KiB Swap:   483800 total,     9060 free,   474740 used.  3442544 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+ 1011 savva     20   0 2993852  99624  44400 S  0,0  2,5   0:27.63 gnome-shell
+ 1342 savva     20   0 1086524  71696   3844 S  0,0  1,8   0:03.07 gnome-softw+
+  630 savva     20   0  446072  27668  14384 S  0,0  0,7   0:03.14 Xorg
+ 1340 savva     20   0  804260  19496  12016 S  0,0  0,5   0:01.84 gnome-termi+
+  491 root      20   0  703640  11628      0 S  0,0  0,3   0:01.94 snapd
+
